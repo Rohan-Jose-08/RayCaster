@@ -1,6 +1,0 @@
-﻿cl : command line  warning D9002: ignoring unknown option '/lglu32'
-cl : command line  warning D9002: ignoring unknown option '/lglut32'
-cl : command line  warning D9002: ignoring unknown option '/lopengl32'
-  Source.c
-  D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\yvals_core.h(28): STL1003: Unexpected compiler, expected C++ compiler.
-D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\yvals_core.h(29,1): fatal  error C1189: #error:  Error in C++ Standard Library usage
