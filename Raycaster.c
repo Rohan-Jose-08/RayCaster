@@ -1,6 +1,3 @@
-//------------------------YouTube-3DSage----------------------------------------
-//Full video: https://www.youtube.com/watch?v=w0Bm4IA-Ii8
-//WADS to move player, E open door after picking up the key
 
 #include <stdlib.h>
 #include <GL/glut.h>
